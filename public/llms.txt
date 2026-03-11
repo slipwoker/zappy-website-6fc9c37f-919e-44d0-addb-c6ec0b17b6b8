@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הפוך רעיונות למציאות עם הדפסה תלת מימדית מותאמת אישית. פרוטוטייפים, מתנות ייחודיות ומוצרים מותאמים אישית בדיוק מקסימלי. התחל לייצר היום!
+
+### שירותי הדפסה
+https://example.com/services
+פתרונות הדפסה תלת מימדית מקצועיים: פרוטוטייפים, מודלים, חלקי חילוף ומתנות מודפסות בתלת מימד. איכות גבוהה, מחירים תחרותיים ומשלוחים מהירים.
+
+### גלריה
+https://example.com/gallery
+גלה את הפוטנציאל של הדפסה תלת מימדית דרך גלריית הפרויקטים שלנו. מתנות ייחודיות, מודלים מורכבים ועיצובים מותאמים אישית שיעניקו לך השראה.
+
+### צור קשר
+https://example.com/contact
+מוכנים להפוך רעיון למוצר מוחשי? צור קשר עכשיו לייעוץ חינם והצעת מחיר. אנחנו כאן כדי להגשים את הפרויקט התלת מימדי שלך בדיוק ובמקצועיות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - 3dcraftonline
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - 3dcraftonline
+
+### Category
+https://example.com/category/:slug
+מוצרים - 3dcraftonline
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
